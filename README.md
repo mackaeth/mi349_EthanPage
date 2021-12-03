@@ -1,1 +1,2 @@
 # mi349_EthanPage
+The navigation to the next page is the Gallery Link underneath my picture, and the Home link on the gallery page is to navigate back to the home page. I had a side-by-side idea for my comp but the column layout looked better and is intentional. 
